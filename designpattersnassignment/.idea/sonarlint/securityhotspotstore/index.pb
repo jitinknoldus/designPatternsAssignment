@@ -1,0 +1,23 @@
+
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+c
+3src/main/java/org/example/builderpattern/House.java,9/d/9d08a95a03abb8e135f3b82e42500d4f91392f16
+j
+:src/main/java/org/example/builderpattern/HouseBuilder.java,5/b/5b624ed2b10284637329c132d3dba3ea2fbf09ab
+b
+2src/main/java/org/example/builderpattern/Main.java,5/7/5722778c5bb989276a0fbec6f62191ff7e10016b
+R
+"src/main/java/factory/Product.java,4/d/4dadad027820b1d0a8dfb28e3e3a4443540cb368
+Y
+)src/main/java/factory/AirConditioner.java,a/c/acb58749613d8c6b2129022118bd95e5cea99255
+W
+'src/main/java/factory/Refrigerator.java,2/1/212bd1bbdeb17e27e6a79eaecb8d07f095f2ac79
+Y
+)src/main/java/factory/ProductFactory.java,e/7/e75ee324417d31355673e040f44a61cb34714902
+O
+src/main/java/factory/Main.java,c/0/c0dc33a31d79dbe0fa4e2437a5cf287419f8a24a
+S
+#src/main/java/singleton/Circle.java,7/3/7380a12324021118750744fe10890697948d4e4c
+Q
+!src/main/java/singleton/Main.java,e/9/e965b684bf3129bf476b66050a9d636aefdc5a1c
